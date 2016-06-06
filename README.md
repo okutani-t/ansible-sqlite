@@ -1,2 +1,5 @@
-# ansible-sqlite
-Ansible sqlite3 role for centos7.
+# SQLite3 Role
+
+Ansible SQLite3 role for centos7.
+
+author: okutani
